@@ -11,3 +11,4 @@ statsmodels
 streamlit
 streamlit-echarts
 tqdm
+networkx
